@@ -1,5 +1,8 @@
 # Building Micro Frontends with React, Vue
 
+FE: React, Vue
+Infra: Github Actions, AWS
+
 ## Getting started
 
 1. Clone the repo
