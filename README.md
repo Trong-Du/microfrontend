@@ -24,9 +24,9 @@ cd packages/marketing && yarn
 
 ```sh
 cd packages/auth && yarn start
-cd packages/container && start
-cd packages/dashboard && start
-cd packages/marketing && start
+cd packages/container && yarn start
+cd packages/dashboard && yarn start
+cd packages/marketing && yarn start
 ```
 
 4. Visit the following URLS:
